@@ -8,7 +8,7 @@ A lightweight screen recording tool inspired by [Loom](https://www.loom.com/), b
 - ✅ Start, pause, and stop screen recording
 - ✅ Download recording as a `.webm` file
 - ✅ Simple and intuitive UI
-- ✅ No external libraries – 100% vanilla JS and html,css
+- ✅ No external libraries – 100% vanilla JS and html,css(scss)
 
 ## 🧰 Tech Stack
 
@@ -27,3 +27,6 @@ A lightweight screen recording tool inspired by [Loom](https://www.loom.com/), b
 git clone https://github.com/deba443/loom.git
 cd loom
 open liveserver
+
+
+
